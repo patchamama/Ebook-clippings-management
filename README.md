@@ -1,5 +1,5 @@
 # Ebook-clippings-management
-Show and organize your Kindle notes and highlights....
+Show and organize your Kindle notes and highlights from diferents kindle devices and sorted by authors, titles....
 
 # Getting Started
 The easiest way to use it is to download a release, unpack that release, visit the URL (http://yourhost/clippings.php) and upload a clipping text file of a kindle device and show the result.
