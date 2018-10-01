@@ -6,8 +6,6 @@ The easiest way to use it is to download a release, unpack that release, visit t
 
 # Example Screenshots
 The following are examples screenshots:
-URL: _parseChess.php?url=http://blogs.deia.eus/ajedreztxiki/category/celadas-tipicas_
-
 ![GitHub Logo](/examples/example1.jpg)
 ![GitHub Logo](/examples/example2.jpg)
 ![GitHub Logo](/examples/example3.jpg)
