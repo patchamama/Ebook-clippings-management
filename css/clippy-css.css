@@ -1,0 +1,264 @@
+
+  html, body {
+    font-family : Palatino, Times, serif; 
+    height: 100%;
+  }
+   
+   font.pagetitle {
+       font-family : Arial, Helvetica, sans-serif; 
+       color: #000000;
+   }
+   
+   a:link { 
+	text-decoration: none;	
+	color: #000000;	
+	}
+	a:visited { 
+	text-decoration: none;	
+	color: #000000;	
+	}
+
+	a:hover { 
+	text-decoration: underline;
+	color: #000000;	
+	}
+
+	a:active { 
+	color: #000000;
+	}
+	
+	
+	
+	
+a.toplink:link {
+	text-decoration:underline;
+}
+
+a.toplink:visited {
+	text-decoration:underline;
+}
+	
+.bigdots {
+	font-size:30px;
+	color:#aaaaaa;
+}
+
+.booklist {
+	font-size: 16px;
+	line-height:30px;
+}
+
+.titlelist {
+	font-size: 18px;
+}
+
+.authorlist {
+	color:#aaaaaa;
+}
+
+.highlights {
+	line-height: 20px;
+}
+
+.toplinks {
+	font-size:14px;
+	line-height: 20px;
+}
+
+
+.gray {
+	color:#aaaaaa;
+}
+
+.highlightnote {
+	font-weight: bold;
+}
+
+	
+	
+.howtext {
+	font-size:14px;
+	line-height:20px;
+	color:#000000;
+}
+
+.logo {
+	font-size:50px;
+	color:#000000;
+}
+
+.bigtitle {
+	font-size:40px;
+	line-height: 40px;
+	color:#000000;
+}
+
+
+
+.authorsub {
+	font-size:20px;
+	color:#aaaaaa;
+}
+
+.tagline {
+	font-size:16px;
+	line-height:30px;
+}
+	
+.dragtext {
+	font-size:20px;
+	color:#000000;
+}
+
+
+.error {
+	font-size:16px;
+	color:#FF0000;
+}
+
+
+.instructions {
+	font-size:14px;
+	line-height: 26px;
+}
+	
+	
+div#uploadbox {
+   width: 650px;
+   height: auto;
+   overflow: hidden; 
+   margin-left: 0px;
+   text-align:center;
+
+}	
+
+div#innerupload {
+   margin-left: 70;
+   margin-right: auto;
+   width: 600;
+   height: auto;
+   
+}
+	
+	
+div#outer {
+   width: 934px;
+   height: auto;
+   overflow: hidden; 
+   min-height: 300px;
+   margin-top: 10px;
+   margin-bottom: 0px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+div#processing {
+	height: auto;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+}
+
+
+div#instructionsdiv {
+  height: auto;
+  width: 650px;
+}
+
+
+div#nothing {
+
+  border: thin solid #000000;
+}
+
+div#paper {
+   width: 934px;
+   height: auto;
+   overflow: hidden; 
+   min-height: 300px;
+   margin-left: auto;
+   margin-right: auto;
+   background-image:url('images/middle_all.png');
+}
+
+div#content {
+   width: 660px;
+   height: auto;
+   overflow: hidden; 
+   min-height: 300px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #f1f1f1;
+   
+}
+
+
+
+
+div#pagetop {
+   width: 934px;
+   height: 133px;
+   padding: 0px;
+
+}
+
+div#topleft {
+	float: left;
+	background-image:url('images/top_left.png');
+	width:467px;
+	height:133px;
+	
+}
+
+
+
+
+div#topright {
+	float: left;
+	background-image:url('images/top_right.png');
+	width:467px;
+	height:133px;
+	
+}
+
+
+
+
+div#bottomleft {
+	float: left;
+	width:467px;
+	height:140px;
+
+   	background-image:url('images/bottom_left.png');
+
+}
+div#bottomright {
+	float: left;
+	width:467px;
+	height:140px;
+
+   	background-image:url('images/bottom_right.png');
+
+}
+
+
+div#pagebottom {
+	clear: left;
+   width: 934px;
+   height: 140px;
+   padding: 0px;
+}
+
+
+
+
+div#main {
+   margin-left: 30%;
+   margin-top: 1px;
+   padding: 10px;
+}
+	
+
+
